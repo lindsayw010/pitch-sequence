@@ -14,7 +14,8 @@ This repository contains MATLAB code for a series of shallow and deep learning m
 ### Installing
 
 * Download files in `src/` into MATLAB online or MATLAB desktop app
-* Copy files from `data/input/` into the same directory as .m and .mlx files
+* Copy zip files from `data/input/` into the same directory as .m and .mlx files
+* Unzip data files
 
 
 ### Executing program
