@@ -1,6 +1,4 @@
-# Project Title
-
-MLB Pitch Sequence Predictive Models
+# MLB Pitch Sequence Predictive Models
 
 ## Description
 
