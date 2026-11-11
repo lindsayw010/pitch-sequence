@@ -4,7 +4,7 @@ MLB Pitch Sequence Predictive Models
 
 ## Description
 
-This repository contains MATLAB code for a series of shallow and deep learning models to predict the next pitch from MLB pitchers given the game situation data. The training dataset contains pitch data from 2019. The goal is to estimate the next pitch as an output and game situation data as an input.   
+This repository contains MATLAB code for a series of shallow and deep learning models to predict the next pitch from MLB pitchers given the game situation data. The training dataset contains pitch data from 2015 and 2016. The goal is to estimate the next pitch as an output for 2019 data and game situation data as an input.   
 
 ## Getting Started
 
